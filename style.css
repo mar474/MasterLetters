@@ -1,12 +1,10 @@
-body {
-    
-    color: whitesmoke;
-}
+
 
 h1 {
     background-color: steelblue;
     padding: 50px 10px; /*vertical horizontal*/
     border: skyblue 10px solid;
+    color: white
 }
 
 h2 {
@@ -23,5 +21,6 @@ p {
     padding: 20px;
     color: white;
     border: skyblue 10px solid;
+    margin: 20px;
 }
  
