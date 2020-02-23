@@ -6,12 +6,13 @@ body {
 h1 {
     background-color: teal;
     padding: 50px 10px; /*vertical horizontal*/
-    border: whitesmoke 1px solid;
+    border: steelblue 5px solid;
 }
 
 h2 {
     background-color: skyblue;
     padding: 30px 10px; /*vertical horizontal*/
+    color: white;
 }
 
 p {
