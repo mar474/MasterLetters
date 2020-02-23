@@ -6,13 +6,14 @@ body {
 h1 {
     background-color: teal;
     padding: 50px 10px; /*vertical horizontal*/
-    border: steelblue 5px solid;
+    border: skyblue 10px solid;
 }
 
 h2 {
     background-color: skyblue;
     padding: 30px 10px; /*vertical horizontal*/
     color: white;
+    border: aqua 10px solid;
 }
 
 p {
@@ -20,6 +21,7 @@ p {
     font-style: italic;
     background-color: aqua;
     padding: 20px;
-    color: gray
+    color: gray;
+    border: teal 10px solid;
 }
  
