@@ -1,9 +1,15 @@
 body {
-    background-color: aqua;
+    
     color: whitesmoke;
+}
+
+h1 {
+    background-color: teal;
+    padding: 50px;
 }
 
 p {
     font-size: small;
     font-style: italic;
+    background-color: aqua;
 }
