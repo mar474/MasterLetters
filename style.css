@@ -17,5 +17,6 @@ p {
     font-size: medium;
     font-style: italic;
     background-color: aqua;
-    padding: 50px;
+    padding: 20px;
+    color: gray
 }
