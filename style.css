@@ -6,6 +6,7 @@ body {
 h1 {
     background-color: teal;
     padding: 50px 10px; /*vertical horizontal*/
+    border: whitesmoke 1px solid;
 }
 
 h2 {
@@ -20,3 +21,4 @@ p {
     padding: 20px;
     color: gray
 }
+ 
