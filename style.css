@@ -8,8 +8,14 @@ h1 {
     padding: 50px;
 }
 
+h2 {
+    background-color: skyblue;
+    padding: 50px;
+}
+
 p {
     font-size: medium;
     font-style: italic;
     background-color: aqua;
+    padding: 50px;
 }
