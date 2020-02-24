@@ -11,6 +11,7 @@ h2 {
     background-color: skyblue;
     padding: 30px 10px; /*vertical horizontal*/
     padding-right: 10px;
+    padding-left: 0px;
     color: white;
     border: steelblue 10px solid;
     margin: 20px
