@@ -10,9 +10,10 @@ h1 {
 h2 {
     background-color: skyblue;
     padding: 30px 10px; /*vertical horizontal*/
+    padding-right: 10px;
     color: white;
     border: steelblue 10px solid;
-    margin: 300px 30px
+    margin: 20px
 }
 
 p {
